@@ -1,0 +1,33 @@
+
+Màn hình của người lái xe trong xuyên suốt hành trình 
++ Gửi thông báo đã đến địa điểm 
++ Bắt đầu 
++ Kết thúc chuyến xe 
++ Hoàn tất chuyến xe 
++ Đánh giá 
+
+Figma
+
+[Màn hình Tìm kiếm địa điểm* - Thiết kế bên Figma]
+1.Hạn chế hiển thị Map - cố gắng né map 
+	(trừ khi chỉ đường thì bật thẳng google map)
+2.Hiển thị luôn vị trí hiện tại là ở đâu
+3.Điểm đi và điểm đến nên có luôn màn hình riêng 
+	- đảm bảo kết quả chính xác 
+	
+[Tạo chuyến xe - nên giảm lược bớt]
+1. Thông tin người lái không cần thiết 
+2. Mô tả - ghi chú có thể để phía dưới, thiết kế dạng toggle (bấm vào icon mới xuất hiện)
+3. Ngày/Thời gian kết thúc: nên có màn hình riêng 
+4. 'Khởi hành sớm': Không rõ nghĩa - 'Khách phải đặt trước bao nhiêu phút'
+
+[Danh sách chuyến xe của tôi]
+1. Sắp xếp theo tab [Còn trống],[Hoàn thành] .....
+2. Bỏ map
+
+[Xác nhận chuyến xe]
+1. Bỏ map 
+2. Nên sử dụng danh sách và sắp xếp theo trạng thái ?
+
+
+

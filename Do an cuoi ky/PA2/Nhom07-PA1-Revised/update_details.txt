@@ -1,0 +1,10 @@
+
+Các cập nhật mới trong PA1:
+- Cập nhật phần 6.1 - Yêu cầu chức năng:
+	+ Cho phép người dùng được linh hoạt lựa chọn vai trò giữa người đi nhờ xe và người lái xe
+	+ Thay đổi chức năng riêng của từng vai trò thành chức năng chung cho cả hai 
+		[Người đi nhờ]: Đánh giá chuyến xe 
+		-> [Người dùng]: Đánh giá chuyến xe (cả hai có thể đánh giá bạn đồng hành của họ)
+	+ Thêm 2 chức năng
+		1. [Người lái xe]: Xác nhận chuyến xe (Đồng ý hoặc Từ chối)
+		2. Cho phép thanh toán qua ví điện tử
